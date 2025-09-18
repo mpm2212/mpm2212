@@ -1,4 +1,9 @@
 ## Hi there 👋
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpm2212&theme=tokyonight)
+
+![Top Langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mpm2212&theme=tokyonight)
+
+
 
 <!--
 **mpm2212/mpm2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
