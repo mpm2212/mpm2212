@@ -1,7 +1,15 @@
 ## Hi there 👋
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpm2212&theme=tokyonight)
 
-![Top Langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mpm2212&theme=tokyonight)
+I see you have stumbled onto my GitHub page. Good Luck! 
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: I love to explore historic homes and conservatories
+
+
+| ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpm2212&theme=tokyonight) | ![Top Langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mpm2212&theme=tokyonight) |
+|---|---|
+
 
 
 
