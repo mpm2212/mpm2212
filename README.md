@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Maira's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpm2212)](https://github.com/mpm2212/github-readme-stats)
+
 <!--
 **mpm2212/mpm2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
